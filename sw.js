@@ -1,5 +1,5 @@
-const CACHE = "lean-lane-v1";
-const SHELL = ["/", "/manifest.webmanifest", "/icon.svg"];
+const CACHE = "lean-lane-v2";
+const SHELL = ["/", "/manifest.webmanifest", "/icon.svg", "/fooddata.json"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)));
