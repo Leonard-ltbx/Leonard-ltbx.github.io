@@ -1,4 +1,4 @@
-const CACHE = "lean-lane-v6";
+const CACHE = "lean-lane-v7";
 const SHELL = ["/", "/manifest.webmanifest", "/icon.svg", "/fooddata.json"];
 
 self.addEventListener("install", (event) => {
