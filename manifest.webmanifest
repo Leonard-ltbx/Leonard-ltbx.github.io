@@ -1,0 +1,10 @@
+{
+  "name": "Lean Lane 减脂备赛",
+  "short_name": "Lean Lane",
+  "description": "三餐、体重趋势与每日动态摄入建议",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#184f3c",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
